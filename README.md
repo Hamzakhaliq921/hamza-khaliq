@@ -13,8 +13,7 @@
 <h2 align="center">Welcome to My GitHub Profile</h2>
 
 <p align="center">
-Software Engineering student currently learning web development and building projects using modern technologies.
-</p>
+Aspiring Software Engineer passionate about web development, creating modern applications, and continuously learning new technologies to build impactful solutions.</p>
 
 ---
 
