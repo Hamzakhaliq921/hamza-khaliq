@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&width=750&lines=Software+Engineering+Student;Learning+MERN+Stack+Development;Java+%7C+Python+%7C+JavaScript;Building+Projects+and+Learning+Daily" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3500&pause=900&color=00C6FF&center=true&vCenter=true&width=850&lines=Aspiring+Software+Engineer;Passionate+About+Web+Development;React+Native+%7C+Java+%7C+Python;Building+Modern+Applications;Always+Learning+New+Technologies" />
 </p>
 
 ---
@@ -13,7 +13,7 @@
 <h2 align="center">Welcome to My GitHub Profile</h2>
 
 <p align="center">
-Aspiring Software Engineer passionate about web development, creating modern applications, and continuously learning new technologies to build impactful solutions.</p>
+Software Engineering student exploring different technology stacks and building modern web and mobile applications while continuously learning new tools and frameworks.</p>
 
 ---
 
