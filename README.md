@@ -52,15 +52,11 @@ Aspiring Software Engineer passionate about web development, creating modern app
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="50"/>
 </p>
----
 
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Hamzakhaliq921&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamzakhaliq921&theme=tokyonight&hide_border=true"/>
 
