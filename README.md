@@ -68,8 +68,6 @@ Passionate Software Engineering student focused on mobile development, programmi
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Hamzakhaliq921&show_icons=true&theme=tokyonight&hide_border=true"/>
-<br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamzakhaliq921&theme=tokyonight&hide_border=true"/>
 </p>
 
