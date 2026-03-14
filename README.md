@@ -61,7 +61,7 @@ and continuously learning new technologies to build impactful solutions.
 <img src="https://streak-stats.demolab.com?user=Hamzakhaliq921&theme=tokyonight&hide_border=true&cache_seconds=1800&v=2"/>
 </p>
 
-## 📈 Contribution Graph
+<h2 align="center">📈 Contribution Graph</h2>
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hamzakhaliq921&theme=tokyo-night)
 
