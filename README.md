@@ -37,7 +37,7 @@ and continuously learning new technologies to build impactful solutions.
 
 ---
 
-<h2 align="center">💻 Tech Stack</h2>
+<h2 align="center">💻 Tech Stacks</h2>
 
 <!-- Main programming languages & frameworks -->
 <p align="center">
