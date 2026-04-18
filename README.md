@@ -26,7 +26,7 @@ and continuously learning new technologies to build impactful solutions.
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge">
   </a>
 
-  <a href="mailto:your_email@gmail.com">
+  <a href="mailto:Hamzakhaliq920@gamil.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge">
   </a>
 
